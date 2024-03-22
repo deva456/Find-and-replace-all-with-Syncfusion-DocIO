@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9R9Jad5o9eu4xxa7DWaZ0ZtxVlGdOKr2f+wRulgfg44g2R+fQiD8wEEqIK0rYFkoCwIOvFgWNoell+NRvHTzkA==",
+  "success": true,
+  "projectFilePath": "D:\\na\\find-and-replace-all\\find-and-replace-all\\find-and-replace-all.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\syncfusion.compression.net.core\\25.1.35\\syncfusion.compression.net.core.25.1.35.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\syncfusion.docio.net.core\\25.1.35\\syncfusion.docio.net.core.25.1.35.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\syncfusion.licensing\\25.1.35\\syncfusion.licensing.25.1.35.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\syncfusion.officechart.net.core\\25.1.35\\syncfusion.officechart.net.core.25.1.35.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
